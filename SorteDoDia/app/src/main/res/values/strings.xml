@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SorteDoDia</string>
+    <string name="hello_world">Salve mundo</string>
+    <string name="click_me">Click me</string>
 </resources>
