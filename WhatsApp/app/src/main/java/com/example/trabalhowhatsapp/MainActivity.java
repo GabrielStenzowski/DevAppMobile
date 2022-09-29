@@ -42,11 +42,11 @@ public class MainActivity extends AppCompatActivity {
                         message.setText("");
                         phone.setText("");
                     }else{
-                        Toast.makeText( MainActivity.this,"Falta baixar o zap amigão",Toast.LENGTH_SHORT).show();
+                        Toast.makeText( MainActivity.this,"Faltando download do WhatsApp meu cria",Toast.LENGTH_SHORT).show();
                     }
 
                 }else {
-                    Toast.makeText(MainActivity.this, "Sem numero ou sem mensagem fica dificil trabalhar aqui amigão", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Faltando numero ou mensagem, meu chapa", Toast.LENGTH_LONG).show();
                 }
 
 
